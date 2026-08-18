@@ -1,4 +1,4 @@
-package Giulianna_Barboza;
+package Giuliana_Bezerra;
 
 /*
 * Professora Giuliana Bezerra

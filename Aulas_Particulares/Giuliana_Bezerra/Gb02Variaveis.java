@@ -1,4 +1,4 @@
-package Giulianna_Barboza;
+package Giuliana_Bezerra;
 
 // Prof. Giuliana Bezerra
 // Aula 02 - Variáveis
