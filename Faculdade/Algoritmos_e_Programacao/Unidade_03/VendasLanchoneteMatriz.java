@@ -38,7 +38,7 @@
 
 package Faculdade.Algoritmos_e_Programacao.Unidade_03;
 
-public class VendasLanchonete {
+public class VendasLanchoneteMatriz {
     public static void main(String[] args) {
 
         int[][] vendas = {
