@@ -36,7 +36,7 @@
  * 
  */
 
-package Faculdade.Algoritmos_e_Programacao.Unidade_03;
+package faculdade.algoritmoseprogramacao.unidade03;
 
 public class VendasLanchoneteMatriz {
     public static void main(String[] args) {

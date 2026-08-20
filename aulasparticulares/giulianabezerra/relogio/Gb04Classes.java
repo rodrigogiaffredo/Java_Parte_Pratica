@@ -1,5 +1,5 @@
 
-package Giuliana_Bezerra;
+package aulasparticulares.giulianabezerra.relogio;
 
 /* Vamos emular a criação de um despertador (o ideal seria a classe se chamar 'Despertador' mas para 
  * a correta organização do diretório e dos estudos posteriores, mantive o nome do arquivo.).

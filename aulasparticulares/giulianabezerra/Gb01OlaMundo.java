@@ -1,4 +1,4 @@
-package Giuliana_Bezerra;
+package aulasparticulares.giulianabezerra;
 
 /*
 * Professora Giuliana Bezerra

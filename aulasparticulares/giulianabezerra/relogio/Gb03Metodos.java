@@ -1,4 +1,4 @@
-package Giuliana_Bezerra;
+package aulasparticulares.giulianabezerra.relogio;
 
 public class Gb03Metodos {
     public static void main(String[] args) { 

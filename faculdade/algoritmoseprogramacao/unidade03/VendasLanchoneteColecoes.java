@@ -13,7 +13,7 @@
 
 
 
-package Faculdade.Algoritmos_e_Programacao.Unidade_03;
+package faculdade.algoritmoseprogramacao.unidade03;
 
 
 import java.util.HashMap;
