@@ -1,6 +1,6 @@
 
 
-/* Na aula a professora fiz o seguinte junto com a professora:
+/* Na aula fiz o seguinte junto com a professora:
  *
  * 1- Criei o diretório 'relogio' dentro de aulasparticulares.giulianabezerra;
  * 
